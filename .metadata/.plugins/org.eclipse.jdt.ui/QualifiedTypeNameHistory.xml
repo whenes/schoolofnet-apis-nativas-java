@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.schoolofnet.javaapinative.main.private_code.PrivateCode"/>
+    <fullyQualifiedTypeName name="com.schoolofnet.javaapinative.main.protected_code.ProtectedCode"/>
+    <fullyQualifiedTypeName name="com.schoolofnet.javaapinative.main.public_code.PublicCode"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="com.schoolofnet.javaapinative.main.java_lag_annotations.Info"/>
+    <fullyQualifiedTypeName name="com.schoolofnet.javaapinative.main.java_lag_annotations.AnnotationExample"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Annotation"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="com.schoolofnet.javaapinative.main.java_io.FileOutputStreamMain"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

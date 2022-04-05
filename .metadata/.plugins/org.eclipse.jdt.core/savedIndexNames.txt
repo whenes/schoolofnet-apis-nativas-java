@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/.metadata/.plugins/org.eclipse.jdt.core
+951599970.index
+3257314759.index
+3544314038.index
+4256774102.index

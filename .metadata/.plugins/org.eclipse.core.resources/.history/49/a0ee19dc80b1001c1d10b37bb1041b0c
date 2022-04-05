@@ -1,0 +1,8 @@
+package com.schoolofnet.javaapinative.main.java_lang_object;
+
+public class ObjectMain {
+	public static void main(String[] args) {
+		Object object = new Object();
+		String name = "Whenes":
+	}
+}

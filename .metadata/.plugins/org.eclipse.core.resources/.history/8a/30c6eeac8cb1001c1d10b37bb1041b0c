@@ -1,0 +1,13 @@
+package com.schoolofnet.javaapinative.main.colletions;
+
+import java.util.HashMap;
+
+public class HashMapMain {
+	public static void main(String[] args) {
+		HashMap<String, String> hashMap = new HashMap<String, String>();
+		
+		hashMap.put(0, "aa");
+		hashMap.put(2, "cc");
+		hashMap.put(1, "bb");
+	}
+}

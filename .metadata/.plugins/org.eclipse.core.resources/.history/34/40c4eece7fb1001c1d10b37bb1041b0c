@@ -1,0 +1,9 @@
+package com.schoolofnet.javaapinative.main.default_code;
+
+class DefaultCode {
+	Integer age;
+	public DefaultCode() {
+		this.age = 32;
+		System.out.println("Default Class Age: " + this.age);
+	}
+}

@@ -1,0 +1,15 @@
+package com.schoolofnet.javaapinative.main.java_io;
+
+import java.io.BufferedReader;
+
+public class BufferedReadMain {
+	public static void main(String[] args) {
+		BufferedReader br;
+		
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

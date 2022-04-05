@@ -1,0 +1,8 @@
+package com.schoolofnet.javaapinative.main.protected_code;
+
+public class Second {
+	public Second() {
+		ProtectedCode protectedCode = new ProtectedCode();
+		String lastName = protectedCode.lastName;
+	}
+}

@@ -1,0 +1,7 @@
+package com.schoolofnet.javaapinative.main.protected_code;
+
+public class Second {
+	public Second() {
+		new Protected().lastName;
+	}
+}

@@ -1,0 +1,798 @@
+2022-04-01 01:59:06,524 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-01 02:04:45,604 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.jar
+2022-04-01 02:04:45,968 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.jar
+2022-04-01 02:04:46,161 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.pom
+2022-04-01 02:04:46,360 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.pom
+2022-04-01 02:06:04,315 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/pom.xml
+2022-04-01 02:06:06,449 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2022-04-01 02:06:06,831 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2022-04-01 02:06:07,198 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.7.1/maven-site-plugin-3.7.1.jar
+2022-04-01 02:06:08,008 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.7.1/maven-site-plugin-3.7.1.jar
+2022-04-01 02:06:08,885 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.schoolofnet:javaNative:0.0.1-SNAPSHOT @ /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/pom.xml.
+2022-04-01 02:06:09,834 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+2022-04-01 02:06:10,221 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+2022-04-01 02:06:10,415 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+2022-04-01 02:06:10,659 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+2022-04-01 02:06:10,856 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/33/maven-parent-33.pom
+2022-04-01 02:06:11,232 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/33/maven-parent-33.pom
+2022-04-01 02:06:11,443 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2022-04-01 02:06:11,653 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2022-04-01 02:06:12,000 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2022-04-01 02:06:12,308 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2022-04-01 02:06:12,726 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2022-04-01 02:06:12,955 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2022-04-01 02:06:13,226 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2022-04-01 02:06:13,539 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2022-04-01 02:06:13,775 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2022-04-01 02:06:14,154 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2022-04-01 02:06:14,376 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2022-04-01 02:06:14,582 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2022-04-01 02:06:14,793 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2022-04-01 02:06:14,983 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2022-04-01 02:06:15,301 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
+2022-04-01 02:06:15,490 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
+2022-04-01 02:06:15,708 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
+2022-04-01 02:06:15,938 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
+2022-04-01 02:06:16,149 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2022-04-01 02:06:16,340 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2022-04-01 02:06:16,633 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2022-04-01 02:06:16,848 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2022-04-01 02:06:17,120 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2022-04-01 02:06:17,308 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2022-04-01 02:06:17,552 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2022-04-01 02:06:17,734 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2022-04-01 02:06:17,756 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2022-04-01 02:06:17,997 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2022-04-01 02:06:18,012 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2022-04-01 02:06:18,013 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2022-04-01 02:06:18,575 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2022-04-01 02:06:18,578 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2022-04-01 02:06:18,663 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2022-04-01 02:06:18,847 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2022-04-01 02:06:18,847 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2022-04-01 02:06:18,846 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2022-04-01 02:06:19,441 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javaNative/src/main/java
+2022-04-01 02:06:19,443 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javaNative/src/test/java
+2022-04-01 02:06:20,769 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 16 sec
+2022-04-01 02:06:22,344 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:06:22,345 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:06:22,352 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:06:22,352 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:07:03,268 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:07:03,268 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:07:03,272 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:07:03,272 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:09:33,790 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.schoolofnet:javaNative:0.0.1-SNAPSHOT @ /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/pom.xml.
+2022-04-01 02:09:34,048 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:09:34,049 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:09:34,052 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:09:34,053 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:10:02,790 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.schoolofnet:javaNative:0.0.1-SNAPSHOT @ /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/pom.xml.
+2022-04-01 02:10:02,898 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:10:02,899 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:10:02,901 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:10:02,901 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:11:01,920 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:11:01,923 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:11:01,941 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:11:01,942 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:13:09,713 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:13:09,714 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:13:09,717 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:13:09,717 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:16:57,468 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:16:57,468 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:16:57,470 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:16:57,471 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:17:20,296 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:17:20,297 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:17:20,308 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:17:20,316 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:17:23,586 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:17:23,586 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:17:23,589 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:17:23,589 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:17:54,787 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:17:54,798 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:17:54,815 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:17:54,817 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:21:42,454 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:21:42,455 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:21:42,473 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:21:42,479 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:22:39,993 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:22:39,996 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:22:39,998 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:22:39,999 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:22:47,124 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:22:47,124 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:22:47,127 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:22:47,128 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:23:43,083 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:23:43,083 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:23:43,085 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:23:43,086 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:24:05,744 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:24:05,745 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:24:05,746 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:24:05,747 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:24:19,712 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:24:19,717 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:24:19,720 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:24:19,723 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:27:09,208 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:27:09,209 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:27:09,211 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:27:09,211 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:27:17,637 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:27:17,637 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:27:17,640 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:27:17,641 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:28:09,455 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:28:09,456 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:28:09,462 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:28:09,463 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:28:19,131 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:28:19,131 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:28:19,133 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:28:19,133 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:29:02,402 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:29:02,403 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:29:02,405 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:29:02,405 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:29:11,531 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:29:11,532 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:29:11,538 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:29:11,538 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:30:21,705 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:30:21,706 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:30:21,708 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:30:21,708 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:30:42,508 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:30:42,508 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:30:42,510 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:30:42,510 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:31:02,265 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:31:02,266 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:31:02,268 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:31:02,269 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:32:10,301 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:32:10,301 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:32:10,304 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:32:10,304 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:32:22,689 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:32:22,690 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:32:22,692 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:32:22,693 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:33:32,348 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:33:32,349 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:33:32,351 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:33:32,359 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:34:44,434 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:34:44,436 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:34:44,441 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:34:44,441 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:34:59,310 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:34:59,312 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:34:59,315 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:34:59,316 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:36:10,523 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:10,523 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:36:10,525 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:10,526 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:36:23,790 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:23,790 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:36:23,791 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:23,792 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:36:26,892 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:26,893 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:36:26,894 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:26,895 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:36:52,499 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:52,500 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:36:52,503 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:36:52,503 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:38:54,692 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:38:54,694 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:38:54,701 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:38:54,701 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:39:05,315 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:39:05,315 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:39:05,317 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:39:05,317 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:39:36,853 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:39:36,857 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:39:36,859 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:39:36,859 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:39:46,232 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:39:46,233 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:39:46,234 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:39:46,237 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:42:19,389 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:42:19,392 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:42:19,394 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:42:19,394 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:42:26,622 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:42:26,623 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:42:26,624 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:42:26,626 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:43:04,245 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:43:04,247 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:43:04,249 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:43:04,249 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:43:44,433 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:43:44,435 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:43:44,437 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:43:44,438 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:43:53,013 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:43:53,013 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:43:53,015 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:43:53,015 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:44:13,937 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:44:13,938 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:44:13,939 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:44:13,940 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:44:34,574 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:44:34,574 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:44:34,576 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:44:34,576 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:44:45,865 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:44:45,866 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:44:45,867 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:44:45,867 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:45:15,822 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:45:15,824 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:45:15,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:45:15,828 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:46:14,991 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:14,993 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:46:14,996 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:14,996 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:46:32,385 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:32,385 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:46:32,387 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:32,387 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:46:41,255 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:41,255 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:46:41,256 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:41,257 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:46:50,900 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:50,900 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:46:50,902 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:46:50,902 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:47:15,992 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:15,994 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:47:15,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:15,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:47:28,749 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:28,749 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:47:28,751 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:28,751 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:47:41,181 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:41,181 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:47:41,183 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:41,183 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:47:42,699 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:42,699 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:47:42,700 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:47:42,700 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:48:29,252 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:48:29,253 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:48:29,254 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:48:29,254 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:49:52,615 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:49:52,616 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:49:52,618 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:49:52,618 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:50:05,553 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:50:05,553 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:50:05,555 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:50:05,555 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:50:55,828 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:50:55,828 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:50:55,830 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:50:55,832 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:51:11,492 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:51:11,493 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:51:11,494 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:51:11,494 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:51:43,481 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:51:43,481 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:51:43,483 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:51:43,483 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:51:57,883 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:51:57,883 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:51:57,885 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:51:57,885 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:52:40,150 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:52:40,150 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:52:40,153 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:52:40,153 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:52:49,337 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:52:49,337 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:52:49,339 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:52:49,339 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:52:52,889 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:52:52,889 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:52:52,891 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:52:52,892 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:53:14,025 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:53:14,025 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:53:14,028 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:53:14,028 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:54:11,777 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:54:11,779 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:54:11,781 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:54:11,781 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:54:50,812 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:54:50,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:54:50,817 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:54:50,817 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:57:16,102 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:57:16,102 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:57:16,104 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:57:16,105 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:57:38,406 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:57:38,406 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:57:38,408 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:57:38,408 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:57:56,496 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:57:56,497 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:57:56,498 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:57:56,498 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:58:59,965 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:58:59,965 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:58:59,967 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:58:59,968 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:59:15,051 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:15,052 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:59:15,053 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:15,053 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:59:37,304 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:37,311 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:59:37,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:37,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:59:38,409 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:38,409 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:59:38,410 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:38,410 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:59:43,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:43,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 02:59:43,978 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:43,978 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 02:59:59,997 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 02:59:59,998 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:00:00,000 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:00:00,000 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:01:47,045 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:01:47,046 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:01:47,048 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:01:47,048 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:02:58,757 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:02:58,757 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:02:58,758 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:02:58,759 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:05:13,958 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:05:13,959 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:05:13,965 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:05:13,966 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:06:06,232 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:06:06,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:06:06,239 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:06:06,239 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:06:12,495 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:06:12,496 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:06:12,501 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:06:12,502 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:12:38,708 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:12:38,709 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:12:38,711 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:12:38,711 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:13:38,551 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:13:38,552 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:13:38,554 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:13:38,555 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:13:58,597 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:13:58,599 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:13:58,601 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:13:58,601 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:15:08,668 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:15:08,670 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:15:08,671 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:15:08,671 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:15:25,895 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:15:25,897 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:15:25,899 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:15:25,899 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:18:30,384 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:18:30,387 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:18:30,388 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:18:30,390 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:18:40,347 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:18:40,347 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:18:40,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:18:40,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:18:46,717 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:18:46,717 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:18:46,718 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:18:46,719 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:22:00,994 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:22:00,995 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:22:00,996 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:22:01,001 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:23:23,607 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:23:23,608 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:23:23,610 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:23:23,610 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:24:20,449 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:24:20,455 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:24:20,457 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:24:20,457 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:24:44,684 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:24:44,684 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:24:44,687 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:24:44,687 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:25:32,255 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:25:32,255 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:25:32,257 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:25:32,257 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:27:02,772 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:27:02,772 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:27:02,774 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:27:02,775 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:27:12,809 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:27:12,810 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:27:12,811 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:27:12,811 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:27:21,064 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:27:21,064 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:27:21,065 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:27:21,066 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:28:28,345 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:28:28,346 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:28:28,347 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:28:28,349 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:28:33,450 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:28:33,451 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:28:33,453 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:28:33,454 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:29:34,033 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:29:34,034 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:29:34,035 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:29:34,035 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:30:08,793 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:30:08,795 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:30:08,796 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:30:08,796 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:30:19,332 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:30:19,334 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:30:19,335 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:30:19,336 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:30:29,441 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:30:29,443 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:30:29,445 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:30:29,445 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:31:50,638 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:31:50,639 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:31:50,640 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:31:50,640 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:32:44,884 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:32:44,889 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:32:44,902 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:32:44,912 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:33:04,525 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:33:04,527 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:33:04,544 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:33:04,544 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:33:26,391 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:33:26,393 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:33:26,394 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:33:26,395 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:33:39,662 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:33:39,663 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:33:39,665 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:33:39,665 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:35:07,641 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:35:07,642 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:35:07,643 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:35:07,643 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:35:10,258 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:35:10,258 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:35:10,259 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:35:10,259 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:36:12,246 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:36:12,247 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:36:12,249 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:36:12,249 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:37:09,245 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:37:09,246 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:37:09,248 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:37:09,249 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:37:34,270 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:37:34,271 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:37:34,274 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:37:34,274 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:38:07,407 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:38:07,409 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:38:07,410 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:38:07,410 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:40:03,967 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:40:03,968 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:40:03,969 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:40:03,970 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:40:42,809 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:40:42,824 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:40:42,826 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:40:42,828 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:41:05,403 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:41:05,404 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:41:05,406 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:41:05,406 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:42:32,736 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:42:32,737 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:42:32,739 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:42:32,741 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:43:02,752 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:43:02,756 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:43:02,757 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:43:02,758 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:44:12,287 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:44:12,287 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:44:12,289 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:44:12,289 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:45:34,804 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:45:34,805 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:45:34,807 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:45:34,810 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:47:09,184 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:47:09,185 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:47:09,186 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:47:09,187 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:47:25,837 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:47:25,842 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:47:25,843 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:47:25,844 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:48:08,894 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:48:08,906 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:48:08,910 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:48:08,912 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:48:43,301 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:48:43,302 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:48:43,303 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:48:43,303 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:49:10,579 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:49:10,581 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:49:10,582 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:49:10,584 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:49:17,334 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:49:17,337 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:49:17,339 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:49:17,339 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:50:24,185 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:50:24,187 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:50:24,189 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:50:24,189 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:50:32,698 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:50:32,698 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:50:32,699 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:50:32,699 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:50:52,142 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:50:52,145 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:50:52,147 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:50:52,147 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:51:00,105 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:51:00,105 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:51:00,107 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:51:00,107 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:52:59,710 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:52:59,712 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:52:59,713 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:52:59,713 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:53:35,943 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:53:35,944 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:53:35,946 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:53:35,946 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:54:15,799 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:54:15,800 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:54:15,801 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:54:15,802 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:54:27,878 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:54:27,880 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:54:27,882 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:54:27,883 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:54:30,939 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:54:30,939 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:54:30,940 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:54:30,940 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:55:33,499 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:55:33,500 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:55:33,501 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:55:33,502 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:55:43,322 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:55:43,323 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:55:43,325 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:55:43,326 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:56:04,882 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:56:04,883 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:56:04,885 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:56:04,885 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:56:31,618 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:56:31,620 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:56:31,622 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:56:31,623 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:56:53,657 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:56:53,658 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:56:53,660 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:56:53,660 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:57:24,088 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:57:24,089 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:57:24,091 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:57:24,091 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:58:02,673 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:58:02,674 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:58:02,676 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:58:02,677 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:58:06,686 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:58:06,686 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:58:06,688 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:58:06,689 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 03:58:16,482 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:58:16,484 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 03:58:16,485 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 03:58:16,485 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:00:08,101 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:00:08,101 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:00:08,103 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:00:08,103 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:01:35,677 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:01:35,678 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:01:35,680 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:01:35,680 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:03:26,666 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:03:26,684 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:03:26,688 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:03:26,696 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:05:41,351 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:05:41,352 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:05:41,353 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:05:41,354 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:07:27,399 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:07:27,399 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:07:27,400 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:07:27,401 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:07:39,443 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:07:39,443 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:07:39,445 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:07:39,445 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:07:46,245 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:07:46,245 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:07:46,246 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:07:46,246 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:11:12,593 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:11:12,593 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:11:12,594 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:11:12,594 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:12:20,320 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:12:20,321 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:12:20,322 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:12:20,322 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:13:03,324 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:03,326 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:13:03,328 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:03,328 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:13:15,384 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:15,385 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:13:15,386 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:15,387 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:13:42,161 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:42,161 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:13:42,162 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:42,162 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:13:45,336 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:45,337 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:13:45,338 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:13:45,338 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:14:16,120 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:14:16,122 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:14:16,124 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:14:16,124 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:14:27,697 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:14:27,699 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:14:27,701 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:14:27,701 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:16:11,313 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:16:11,314 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:16:11,315 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:16:11,315 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:17:41,780 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:17:41,781 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:17:41,782 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:17:41,782 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:18:33,051 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:18:33,052 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:18:33,055 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:18:33,055 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:19:09,075 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:19:09,080 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:19:09,081 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:19:09,081 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:19:50,387 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:19:50,389 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:19:50,390 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:19:50,390 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:20:26,726 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:20:26,726 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:20:26,728 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:20:26,729 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:20:46,577 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:20:46,577 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:20:46,579 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:20:46,579 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:21:19,803 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:21:19,815 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:21:19,817 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:21:19,818 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:21:27,750 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:21:27,750 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:21:27,751 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:21:27,751 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:22:17,289 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:22:17,291 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:22:17,296 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:22:17,296 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:22:51,928 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:22:51,930 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:22:51,931 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:22:51,932 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:23:35,987 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:23:35,989 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:23:35,991 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:23:35,991 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:23:49,860 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:23:49,863 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:23:49,865 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:23:49,869 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:24:06,555 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:24:06,556 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:24:06,557 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:24:06,557 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:25:29,519 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:25:29,520 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:25:29,522 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:25:29,522 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:25:32,453 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:25:32,453 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:25:32,454 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:25:32,454 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:31:17,816 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:31:17,817 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:31:17,821 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:31:17,822 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:31:21,949 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:31:21,949 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:31:21,951 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:31:21,951 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:34:30,572 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:34:30,572 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:34:30,573 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:34:30,575 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:35:06,347 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:35:06,353 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:35:06,355 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:35:06,356 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:36:13,767 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:36:13,769 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:36:13,772 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:36:13,774 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:36:44,738 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:36:44,740 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:36:44,741 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:36:44,741 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:37:34,430 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:37:34,431 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:37:34,431 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:37:34,432 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources
+2022-04-01 04:38:13,185 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:38:13,189 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/main/resources
+2022-04-01 04:38:13,191 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-01 04:38:13,192 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/whenes/workspaces/codeeducation_schoolofnet/java/apis-nativas-java/javaNative/src/test/resources

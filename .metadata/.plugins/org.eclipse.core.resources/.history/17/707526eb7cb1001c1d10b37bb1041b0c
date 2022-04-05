@@ -1,0 +1,15 @@
+package com.schoolofnet.javaapinative.main;
+
+import com.schoolofnet.javaapinative.main.public_code.PublicCode;
+
+import main.Main;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	new PublicCode();
+    	new Main();
+        System.out.println( "Hello World!" );
+    }
+}

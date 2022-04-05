@@ -1,0 +1,8 @@
+package com.schoolofnet.javaapinative.main.java_lag_annotations;
+
+@Info(createdBy = "Will")
+public class AnnotationsMain {
+	public static void main(String[] args) {
+		
+	}
+}

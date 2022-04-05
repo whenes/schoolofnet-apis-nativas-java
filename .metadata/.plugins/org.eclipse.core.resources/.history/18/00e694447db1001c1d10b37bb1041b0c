@@ -1,0 +1,7 @@
+package com.schoolofnet.javaapinative.main.private_code;
+
+private class PrivateCode {
+	public PrivateCode() {
+		System.out.println("Private Class");
+	}
+}

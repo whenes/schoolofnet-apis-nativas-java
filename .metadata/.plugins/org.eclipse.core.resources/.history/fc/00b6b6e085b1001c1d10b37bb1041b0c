@@ -1,0 +1,7 @@
+package com.schoolofnet.javaapinative.main.java_io_file;
+
+public class FileMain {
+	public static void main(String[] args) {
+		File file = new File("test.txt");
+	}
+}

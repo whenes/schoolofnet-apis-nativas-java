@@ -1,0 +1,7 @@
+package com.schoolofnet.javaapinative.main.java_lang_wrappers;
+
+public class WrappersMain {
+	public static void main(String[] args) {
+		
+	}
+}

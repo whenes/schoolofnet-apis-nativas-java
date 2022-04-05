@@ -1,0 +1,19 @@
+package com.schoolofnet.javaapinative.main.java_io;
+
+import java.io.File;
+
+public class FileOutputStreamMain {
+	public static void main(String[] args) {
+		try {
+			File file = new File("test.txt");
+			
+			if (file.createNewFile()) {
+				System.out.println("File has created");
+			} else {
+				System.out.println("File alredy exists");
+			}
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+	}
+}

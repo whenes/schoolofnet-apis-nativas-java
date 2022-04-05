@@ -1,0 +1,7 @@
+package com.schoolofnet.javaapinative.main.java_io;
+
+public class BufferedReadMain {
+	public static void main(String[] args) {
+		
+	}
+}
